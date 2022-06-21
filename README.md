@@ -7,5 +7,5 @@
 1. clone repo
 2. npm i
 3. npm run dev
-4. go to http://localhost:300
+4. go to http://localhost:3000
 5. cry at how horrible it is
