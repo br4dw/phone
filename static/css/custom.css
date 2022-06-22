@@ -58,6 +58,15 @@ body {
     margin: 0 auto;
 }
 
+.app-container {
+    grid-row: span 16;
+    background-color: rgba(42, 44, 53, 0.7);
+    display: flex;
+    width: auto;
+    padding: 10px;
+    color: white;
+}
+
 
 /* Misc */
 .noselect {

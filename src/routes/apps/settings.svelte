@@ -12,9 +12,10 @@
 	<title>Settings</title>
 </svelte:head>
 
-
 <div class="phone">
-	<TopIcons />
-	<SettingsApp />
+    <TopIcons />
+	<div class="app-container">
+		<SettingsApp />
+	</div>
 	<BottomIcons />
 </div>

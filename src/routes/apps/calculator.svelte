@@ -14,6 +14,8 @@
 
 <div class="phone">
     <TopIcons />
-	<CalculatorApp />
+	<div class="app-container">
+		<CalculatorApp />
+	</div>
 	<BottomIcons />
 </div>
