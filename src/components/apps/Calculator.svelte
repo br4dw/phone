@@ -1,12 +1,4 @@
 <style>
-    .app-container {
-        grid-row: span 16;
-        background-color: rgba(42, 44, 53, 0.7);
-        display: flex;
-        width: auto;
-        color: white;
-    }
-
     .calculator-grid {
         display: grid;
         justify-content: center;
