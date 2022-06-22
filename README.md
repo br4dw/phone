@@ -1,8 +1,8 @@
 # What the phone looks like
 
-![Preview-home](/previews/home-screen.png)
+![Preview-home](/previews/home.png)
 
-![Preview-calc](/previews/calculator.png)
+![Preview-calc](/previews/calc.png)
 
 # idk why anyone would but how to start:
 
