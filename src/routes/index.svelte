@@ -190,6 +190,11 @@
 		<div class="app">
 			<img src="img/apps/advertisements.png" alt="" class="app-icon" draggable="false">
 		</div>
+		<div class="app">
+			<a href="/apps/calculator">
+				<img src="img/apps/calculator.png" alt="" class="app-icon" draggable="false">
+			</a>
+		</div>
 	</div>
 	<div class="bottom-icons-container">
 		<div class="bottom-icons">
