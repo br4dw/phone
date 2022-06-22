@@ -37,6 +37,17 @@ body {
     --button-bg: rgba(255, 255, 255, .75);
     --button-hover-bg: rgba(255, 255, 255, .9);
     --output-bg: rgba(0, 0, 0, .75);
+    --background-color: rgb(51, 53, 64);
+
+    /* Colors */
+    --success: rgba(53, 169, 85, 0.9);
+    --warning: rgba(227, 146, 39, 0.9);
+    --danger: rgba(235, 96, 96, 0.9);
+    --default: rgba(32, 32, 32, 0.6);
+    --success-hover: rgb(53, 169, 85);
+    --warning-hover: rgb(227, 146, 39);
+    --danger-hover: rgb(235, 96, 96);
+    --default-hover: rgb(32, 32, 32);
 }
 
 /* Phone CSS */
@@ -49,14 +60,18 @@ body {
     min-width: 20em;
     min-height: 40em;
     border: var(--border-size) solid var(--border-color);
-    background-color: transparent;
-    background-image: url("https://source.unsplash.com/kMxlbbzbFhQ");
+    background-color: var(--background-color);
     background-position: center;
     background-repeat: no-repeat;
+    background-image: url("https://source.unsplash.com/jCL98LGaeoE");
     background-size: var(--phone-width) var(--phone-height);
     border-radius: var(--border-radius);
     margin: 0 auto;
 }
+
+/* .phone[data-wallpaper] {
+    background-image: attr(data-wallpaper);
+} */
 
 .app-container {
     grid-row: span 16;
