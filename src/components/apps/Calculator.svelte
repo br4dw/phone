@@ -1,10 +1,10 @@
 <style>
     .app-container {
         grid-row: span 16;
-        /* background-color: var(--app-bg); */
+        background-color: rgba(42, 44, 53, 0.7);
         display: flex;
-        width: 100%;
-        /* padding: 10px; */
+        width: auto;
+        color: white;
     }
 
     .calculator-grid {

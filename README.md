@@ -1,8 +1,8 @@
 # What the phone looks like
 
-![Preview-home](https://cdn.br4d.vip/YLAb.png)
+![Preview-home](/previews/home-screen.png)
 
-![Preview-calc](https://cdn.br4d.vip/Relp.png)
+![Preview-calc](/previews/calculator.png)
 
 # idk why anyone would but how to start:
 
