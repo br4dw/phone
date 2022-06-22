@@ -1,5 +1,9 @@
 <style>
-
+	.app-container {
+		padding: 10px;
+		background-color: rgba(42, 44, 53, 0.7);
+    	color: white;
+	}
 </style>
 
 <script>
