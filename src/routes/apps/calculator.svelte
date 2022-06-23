@@ -5,7 +5,7 @@
 <script>
     import TopIcons from '../../components/TopIcons.svelte';
 	import BottomIcons from '../../components/BottomIcons.svelte';
-    import CalculatorApp from "../../components/apps/Calculator.svelte";
+    import CalculatorApp from "../../components/apps/CalculatorApp.svelte";
 </script>
 
 <svelte:head>

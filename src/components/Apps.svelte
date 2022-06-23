@@ -40,7 +40,9 @@
         </a>
     </div>
     <div class="app">
-        <img src="img/apps/phone.png" alt="" class="app-icon" draggable="false">
+        <a href="/apps/phone">
+            <img src="img/apps/phone.png" alt="" class="app-icon" draggable="false">
+        </a>
     </div>
     <div class="app">
         <img src="img/apps/messages.png" alt="" class="app-icon" draggable="false">
